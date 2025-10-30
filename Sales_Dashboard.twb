@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<workbook version="2023.2" source-build="Sales Dashboard Example">
+  <datasource name="Sales Data 2025">
+    <connection filename="cleaned_sales_data_2025.xlsx"/>
+  </datasource>
+  <worksheet name="Sales by Region">Worksheet placeholder for Sales by Region</worksheet>
+  <worksheet name="Monthly Revenue Growth">Worksheet placeholder for Monthly Revenue Growth</worksheet>
+  <worksheet name="Top Performing Products">Worksheet placeholder for Top Performing Products</worksheet>
+  <worksheet name="Profit vs Sales">Worksheet placeholder for Profit vs Sales</worksheet>
+  <dashboard name="Sales Dashboard 2025">Dashboard combining all sales insights</dashboard>
+</workbook>
