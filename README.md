@@ -29,5 +29,5 @@ This project analyzes retail sales data for 2025 using **Python**, **Excel**, an
 \]
 
 ## 👨‍💻 Author
-**Jitesh Roy**  
+**Masrafil Mortoza Masum**  
 *Bangalore, 2025*
